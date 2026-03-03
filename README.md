@@ -1,4 +1,5 @@
-📞 Telco Customer Churn Analysis & Prediction
+📞Customer Churn Analysis & Prediction
+
 📌 Project Overview
 
 This project focuses on analyzing and predicting customer churn using the Telco Customer Churn dataset.
